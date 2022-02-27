@@ -1,0 +1,20 @@
+.headbar{
+	width: 2558px;
+	height: 73px;
+	max-width: 2558px;
+	max-height: 73px;
+	border-bottom: 2px solid #ec691e;
+	flex: 1 100%;
+}
+.headgrid{
+	margin: 0px 0px 0px 0px;
+	width: 100px;
+	height: 73px;
+	font-size: 32px;
+	sfont-stretch: 100%;
+	font-family: IBMPlexSans, Arial, sans-serif;
+}
+.headgrid > p{
+	margin: 17px 0px 17px 10.969px;
+	smargin: 0px 0px 0px 0px;
+}
