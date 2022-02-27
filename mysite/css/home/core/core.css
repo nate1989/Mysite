@@ -26,7 +26,7 @@ a:-webkit-any-link:hover {
     color: #ec691e;
 }
 body{
-	background-image: url("backgrounds/wood.jpg");
+	background-image: url("https://raw.githubusercontent.com/nate1989/Mysite/main/mysite/css/home/core/backgrounds/wood.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 2558px;
