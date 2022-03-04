@@ -1,14 +1,16 @@
 .adbar{
-	width: 300px;
+	width: 302px;
 	height: 1252px;
-	max-width: 300px;
+	max-width: 302px;
 	max-height: 1252px;
 	flex: 3;
 }
 .adgrid{
-	max-width:276px;
-	width:276px;
-	border: 2px solid #ec691e;
+	background-color: #0000004d;
+	max-width:278px;
+	width:278px;
+	border: 2px solid #00000026;
+	border-radius: 10px;
 	margin: 10px 10px 0px 10px;
 	overflow:auto;
 }

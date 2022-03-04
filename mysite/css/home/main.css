@@ -1,8 +1,8 @@
 .main{
 	flex-wrap: wrap;
-	width: 1954px;
+	width: 2252px;
 	height: 1252px;
-	max-width: 1954px;
+	max-width: 2252px;
 	max-height: 1252px;
 	border-right: 2px solid #ec691e;
 	flex: 1 ;
@@ -10,11 +10,11 @@
 .maingrid{
 	background-color: #0000004d;
 	margin: 20px 20px 0px 0px;
-	width: 943px;
+	width: 720px;
 	height: 592px;
-	max-width: 943px;
+	max-width: 720px;
 	max-height: 592px;
-	min-width: 943px;
+	min-width: 720px;
 	min-height: 592px;
 	border: 2px solid #00000026;
 	border-radius: 10px;
@@ -23,36 +23,38 @@
     text-decoration: none;
 }
 .mainimg{
-	margin: 13px 69.5px 6px 69.5px;
+	background-color: #0000004d;
+	background-size: cover;
+	margin: 13px 10px 6px 10px;
 	border: 2px solid #00000026;
 	border-radius: 10px;
-	width: 800px;
+	width: 700px;
 	height: 450px;
-	max-width: 800px;
+	max-width: 700px;
 	max-height: 450px;
-	min-width: 800px;
+	min-width: 700px;
 	min-height: 450px;
 }
 .maininfo{
 	background-color: #0000004d;
-	margin: 0px 15px 13px 15px;
+	margin: 0px 10px 13px 10px;
 	border: 2px solid #00000026;
 	border-radius: 10px;
-	width: 909px;
+	width: 700px;
 	height: 102px;
-	max-width: 909px;
+	max-width: 700px;
 	max-height: 102px;
-	min-width: 909px;
+	min-width: 700px;
 	min-height: 102px;
-	font-size: 29px;
+	font-size: 26px;
 	text-align: center;
 	font-family: IBMPlexSans, Arial, sans-serif;
 }
 .maininfoline{
-	width: 909px;
+	width: 700px;
 	height: 34px;
-	max-width: 909px;
+	max-width: 700px;
 	max-height: 34px;
-	min-width: 909px;
+	min-width: 700px;
 	min-height: 34px;
 }
