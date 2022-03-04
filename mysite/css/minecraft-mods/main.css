@@ -16,11 +16,11 @@
 	background-color: #0000004d;
 	margin: 8px 8px 0px 0px;
 	width: 362px;
-	height: 294px;
+	height: 300px;
 	max-width: 362px;
-	max-height: 294px;
+	max-height: 300px;
 	min-width: 362px;
-	min-height: 294px;
+	min-height: 300px;
 	border: 2px solid #00000026;
 	border-radius: 10px;
 }
@@ -30,7 +30,7 @@
 .mainimg{
 	background-color: #0000004d;
 	background-size: cover;
-	margin: 4px 5px 3px 5px;
+	margin: 7px 5px 3px 5px;
 	border: 2px solid #000000;
 	border-radius: 10px;
 	width: 348px;
