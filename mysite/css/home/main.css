@@ -1,8 +1,8 @@
 .main{
 	flex-wrap: wrap;
-	width: 2252px;
+	width: 2263px;
 	height: 1252px;
-	max-width: 2252px;
+	max-width: 2263px;
 	max-height: 1252px;
 	border-right: 2px solid #ec691e;
 	flex: 1 ;
@@ -25,7 +25,7 @@
 .mainimg{
 	background-color: #0000004d;
 	background-size: cover;
-	margin: 13px 10px 6px 10px;
+	margin: 11px 0px 10px 8px;
 	border: 2px solid #00000026;
 	border-radius: 10px;
 	width: 700px;
@@ -37,7 +37,7 @@
 }
 .maininfo{
 	background-color: #0000004d;
-	margin: 0px 10px 13px 10px;
+	margin: 12px 0px 0px 8px;
 	border: 2px solid #00000026;
 	border-radius: 10px;
 	width: 700px;
