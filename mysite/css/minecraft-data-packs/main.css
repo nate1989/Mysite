@@ -1,0 +1,68 @@
+.main {
+	flex-wrap: wrap;
+	width: 2263px;
+	height: 1252px;
+	max-width: 2263px;
+	max-height: 1252px;
+	border-right: 2px solid #ec691e;
+	flex: 1;
+}
+
+.main::-webkit-scrollbar,.gridflex::-webkit-scrollbar {
+	width: 0 !important;
+	height: 0 !important;
+}
+
+.maingrid {
+	background-color: #0000004d;
+	margin: 8px 8px 0 0;
+	width: 362px;
+	height: auto;
+	max-width: 362px;
+	min-width: 362px;
+	min-height: auto;
+	border: 2px solid #00000026;
+	border-radius: 10px;
+}
+
+.mainlink:-webkit-any-link {
+	text-decoration: none;
+}
+
+.mainimg {
+	background-color: #0000004d;
+	background-size: cover;
+	margin: 7px 5px 3px 5px;
+	border: 2px solid #000;
+	border-radius: 10px;
+	width: 348px;
+	height: 225px;
+	max-width: 348px;
+	max-height: 225px;
+	min-width: 348px;
+	min-height: 225px;
+}
+
+.maininfo {
+	background-color: #0000004d;
+	margin: 0 5px 4px 5px;
+	border: 2px solid #00000026;
+	border-radius: 10px;
+	width: 348px;
+	height: auto;
+	max-width: 348px;
+	min-width: 348px;
+	min-height: auto;
+	font-size: 23px;
+	text-align: center;
+	font-family: IBMPlexSans,Arial,sans-serif;
+}
+
+.maininfoline {
+	width: 350px;
+	height: 17px;
+	max-width: 350px;
+	max-height: 25.5px;
+	min-width: 350px;
+	min-height: 25.5px;
+}
