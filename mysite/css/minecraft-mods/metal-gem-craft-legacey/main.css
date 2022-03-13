@@ -1,8 +1,8 @@
 .main{
 	flex-wrap: wrap;
-	width: 2263px;
+	width: 1952px;
 	height: 1252px;
-	max-width: 2263px;
+	max-width: 1952px;
 	max-height: 1252px;
 	border-right: 2px solid #ec691e;
 	flex: 1 ;
@@ -24,12 +24,13 @@
 	max-height: 720px;
 	min-width: 1280px;
 	min-height: 720px;
-	border: 2px solid #00000026;
+	border: 2px solid #000000a1;
 }
 .mainiframegrid2,.mainlink{
 	background-repeat: no-repeat;
 	background-clip: content-box;
-	background-size: cover;
+	background-position: center;
+	background-size: contain;
 }
 .mainlinkgrid{
 	background-color: #0000004d;
@@ -40,9 +41,8 @@
 	max-height: 704px;
 	min-width: 647px;
 	min-height: 704px;
-	border: 2px solid #00000026;
+	border: 2px solid #000000a1;
 	border-radius: 10px;
-    cursor: pointer;
 }
 .linkgridflex{
 	background-color: #0000004d;
@@ -69,6 +69,30 @@
 	border: 2px solid #00000026;
 	border-radius: 10px;
 }
+.textbox{
+	background-color: #0000004d;
+	margin: 16px 0px 0px 16px;
+	width: 1920px;
+	height: auto;
+	max-width: 1920px;
+	max-height: auto;
+	min-width: 1920px%;
+	min-height: auto;
+	border: 2px solid #00000026;
+	border-radius: 10px;
+}
+.subtextbox{
+	background-color: #0000004d;
+	margin: 16px 0px 16px 16px;
+	width: 1888px;
+	height: auto;
+	max-width: 1888px;
+	max-height: auto;
+	min-width: 1888px;
+	min-height: auto;
+	border: 2px solid #00000026;
+	border-radius: 10px;
+}
 .mainlink:-webkit-any-link {
     text-decoration: none;
 }
@@ -88,12 +112,16 @@
 	max-height: 113px;
 	min-width: 201px;
 	min-height: 113px;
-	border: 2px solid #00000026;
+	border: 2px solid #000000a1;
 	border-radius: 10px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	cursor: pointer;
 }
+.empty{
+	cursor: default;
+	}
 .mainimg{
 	background-color: #0000004d;
 	background-size: cover;

@@ -4,6 +4,7 @@
 	max-width: 302px;
 	max-height: 1252px;
 	flex: 3;
+	display:none;
 }
 .adgrid{
 	background-color: #0000004d;
@@ -13,6 +14,7 @@
 	border-radius: 10px;
 	margin: 10px 10px 0px 10px;
 	overflow:auto;
+	display:none;
 }
 .adgrid::-webkit-scrollbar{
     width: 0px !important;
